@@ -1,0 +1,16 @@
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\bin\Debug\net5.0\Adjucent-Matrix.exe
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\bin\Debug\net5.0\Adjucent-Matrix.deps.json
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\bin\Debug\net5.0\Adjucent-Matrix.runtimeconfig.json
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\bin\Debug\net5.0\Adjucent-Matrix.runtimeconfig.dev.json
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\bin\Debug\net5.0\Adjucent-Matrix.dll
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\bin\Debug\net5.0\ref\Adjucent-Matrix.dll
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\bin\Debug\net5.0\Adjucent-Matrix.pdb
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.csproj.AssemblyReference.cache
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.AssemblyInfoInputs.cache
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.AssemblyInfo.cs
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.csproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.dll
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\ref\Adjucent-Matrix.dll
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.pdb
+C:\Users\larry\source\repos\Adjucent-Matrix\Adjucent-Matrix\obj\Debug\net5.0\Adjucent-Matrix.genruntimeconfig.cache
